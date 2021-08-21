@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @belloshehu
+- 👋 Hi, I’m Shehu Bello
 - 👀 I’m interested in React and Django 
 - 🌱 I’m currently learning React and Django REST framework
 - 💞️ I’m looking to collaborate on ...
