@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shehu Bello
 - 👀 I’m interested in React and Django 
-- 🌱 I’m currently learning React and Django REST framework
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently taking the Meta Frontend certification
 - 📫 I can be reached through +2349061983150 on whatsApp
 
 <!---
