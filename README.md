@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shehu Bello
-- 👀 I’m interested in React and Django 
+- 👀 I’m interested in React, Express, Nodejs and MongoDB 
 - 🌱 I’m currently taking the Meta Frontend certification
 - 📫 I can be reached through +2349061983150 on whatsApp
 
