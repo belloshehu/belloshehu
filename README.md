@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shehu Bello
-- 👀 I’m interested in React, Express, Nodejs and MongoDB 
-- 🌱 I’m a certified Front-end Developer and taking React-native course
+- 👀 I’m interested in React,React Native, Express, Nodejs and MongoDB 
+- 🌱 I’m a certified Full stack developer
 - 📫 I can be reached through +2349061983150 on whatsApp
 
 <!---
